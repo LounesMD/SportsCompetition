@@ -1,8 +1,8 @@
 # COO - Project
 
-This repository belongs to **Matthieu Medeng Essia** and **Lounès Meddahi**.
+This repository belongs to  **<a href="https://github.com/LounesMD" target="_blank">Lounès Meddahi</a>**. This project was realized in collaboration with **<a href="https://github.com/medengessia" target="_blank">Matthieu Medeng Essia</a>**
 
-Informatique-Mathématiques bachelor's degree.
+Computer Science and Mathematics bachelor's degree.
 
 ### Subject
 
@@ -23,7 +23,7 @@ A Linux operating system providing a java compiler, available in M5 building, fo
 
 Import our folder from GitLab with :
 
-git clone https://gitlab-etu.fil.univ-lille1.fr/meddahil/meddahi-medengessia-coo-projet.git
+git clone https://github.com/LounesMD/SportsCompetition
 
 #### Create the javadoc
 Open a Terminal
