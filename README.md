@@ -21,7 +21,7 @@ A Linux operating system providing a java compiler, available in M5 building, fo
 
 #### Installation
 
-Import our folder from GitLab with :
+Import our folder from GitHub with :
 
 git clone https://github.com/LounesMD/SportsCompetition
 
